@@ -1,0 +1,53 @@
+{
+    "usuarios": [
+      {
+        "id": "1",
+        "username": "Benjamin",
+        "password": "Benja7u7",
+        "email": "benjaacevedoleon@gmail.com",
+        "isactive": true
+      },
+      {
+        "id": "2",
+        "username": "diego",
+        "password": "Benja7u7",
+        "email": "benjaacevedoleon@gmail.com",
+        "isactive": true
+      },
+      {
+        "id": "3",
+        "username": "renata",
+        "password": "Benja7u7",
+        "email": "benjaacevedoleon@gmail.com",
+        "isactive": true
+      },
+      {
+        "id": "62dc",
+        "username": "Rodrigo",
+        "email": "benjaacevedoleon@gamil.com",
+        "password": "Benja7u7",
+        "isactive": true
+      },
+      {
+        "id": "a668",
+        "username": "Leonel",
+        "email": "benjaacevedoleon@gmail.com",
+        "password": "Benja7u7",
+        "isactive": true
+      },
+      {
+        "id": "f5cb",
+        "username": "PabloLoco",
+        "email": "Benjamin@gmail.com",
+        "password": "NegroChupalo12",
+        "isactive": true
+      },
+      {
+        "id": "a2b4",
+        "username": "Luciano",
+        "email": "benjaacevedoleon@gmail.com",
+        "password": "Luciano123",
+        "isactive": true
+      }
+    ]
+  }
